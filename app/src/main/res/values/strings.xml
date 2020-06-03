@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Save file</string>
+    <string name="save_file">Сохранить файл</string>
+    <string name="saved">Сохранено</string>
+</resources>
